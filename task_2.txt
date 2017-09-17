@@ -1,0 +1,11 @@
+1. \s(O|o)(.|_)?[a-z0-9_-\S]+@enron.com
+2. 9
+3. outlook.team@enron.com
+   outlook.team@enron.com
+   Outlook.2000@enron.com
+   outlook.team@enron.com
+   Outlook.2000@enron.com
+   outlook-migration-team@enron.com
+   outlook-migration-team@enron.com
+   oscar.dalton@enron.com
+   Outlook.2000@enron.com
