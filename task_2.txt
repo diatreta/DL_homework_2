@@ -1,5 +1,5 @@
-1. \s(O|o)(.|_)?[a-z0-9_-\S]+@[a-z]+(.)?[a-z]+?(.com|.org)
-2. 25 (но один e-mail адресс повторяется 3 раза)
+1. \s(O|o)(.|_)?[a-z0-9_-\S]+@[a-z]+(.)?[a-z]+?.[a-z]+
+2. 34 
 3. o -  outlook.team@enron.com
 o -  outlook.team@enron.com
 O -  Outlook.2000@enron.com
